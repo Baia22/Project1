@@ -1,0 +1,587 @@
+.container, .second-tab, .third-tab {
+    max-width: 1920px;
+    width:100%;
+    margin:0 auto;
+    font-family: 'Courgette', cursive;
+}
+header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.header1 {
+    margin-top: 20px;
+}
+.bullet {
+    list-style-type:circle;
+    margin-right: 30px;
+    font-size:22px;
+}
+.second {
+    margin-right: 300px;
+    font: medium;
+}
+.first-section {
+    position: relative;
+    width:100%;
+    display:block;
+    height:300px;
+}
+.third {
+    margin-right: 30px;
+    font-weight: 50% bold;
+}
+.fourth {
+    font:lighter;
+}
+.front {
+    position: absolute;
+    width:100%;
+}
+.front-section {
+    position: absolute;
+    left:60px;
+    width:80rem;
+    top:80px;
+    color:white;
+}
+.featured {
+    font-size: 15px;
+    opacity: 0.5;
+    margin-bottom: 10px;
+    font:medium;
+}
+.explore-spit {
+    font-size: 32px;
+    font-weight:50% bold;
+}
+.info {
+    font-size: 15px;
+    margin-top:20px;
+}
+.read {
+    border-radius: 22px;
+    background-color: rgb(98, 148, 162);
+    padding: 5px 20px;
+    margin-top: 20px;
+    font: medium;
+    font-size: 17px;
+    color:white;
+}
+.published {
+    font-size: 12px;
+    color:rgb(51,51,51);
+}
+ul {
+    display: flex;
+}
+.background1 {
+    width:100%;
+    height:301px;
+    position: absolute;
+}
+.inline1 {
+    display: flex;
+    position: absolute;
+    top:30px;
+    color:white;
+    width:100%;
+    left:900px;
+}
+.more-style {
+    display: none;
+}
+.more-style1 {
+    border-radius: 22px;
+    padding: 20px;
+}
+.more-style1 {
+    border-radius: 22px;
+    padding: 10px 15px;
+}
+
+.split {
+    margin-left:20px;
+    border-radius: 22px;
+    background-color:rgb(94, 138, 147);
+    color:rgb(252, 252, 252) ;
+    padding: 2px 10px;
+    font-size: 12px;
+    font:bold;
+}
+.recent {
+    font-size: 40px;
+}
+.full {
+    font-size: 10px;
+}
+.foot-list1 {
+    margin-top:20px;
+    display: block;
+    margin-left:20px;
+    padding-top: 30px;
+    padding-left:30px;
+}
+footer {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.section3 {
+    width:100%;
+    display: flex;
+}
+.navbar1 {
+    display: flex;
+    justify-content: space-between;
+    width:80%;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.recent-publications {
+    font-size: 25px;
+    font:medium;
+}
+.full-list {
+    border: none;
+    background-color: aliceblue;
+    font-size: 12px;
+    font-weight: 50% bold;
+    opacity: 0.3;
+}
+.first-block {
+    width:60%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.car1, .skyscrapper11, .skyy {
+    width:177px;
+    height:117px;
+}
+.auto1, .skyscrapper1, .sky1 {
+    display: flex;
+    margin:20px;
+}
+.reviewss1 {
+    font-size: 13px;
+    font:medium;
+}
+.title {
+    font-size: 20px;
+    font-weight:50% bold;
+    margin:20px 0;
+}
+.paragraph2 {
+    font-size: 15px;
+    font:lighter;
+}
+.reviewss, .skyscrappers, .sky3 {
+    display: block;
+    margin:20px;
+
+}
+.second-block {
+    width:40%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.trip-to-usa{
+    background-image: url("..//background2.png");
+    width:406px;
+    height: 268px;
+}
+.sponsored1 {
+    padding-top: 50px;
+    padding-left:30px;
+}
+.spons1  {
+    font-size: 15px;
+    font:medium;
+    opacity: 0.3;
+    color:rgb(240, 240, 240);
+}
+.win1 {
+    font-size: 32px;
+    font-weight: 50% bold;
+    color:rgb(240, 240, 240);
+    margin:20px 0;
+}
+.participate {
+    font-size: 15px;
+    font:lighter;
+    opacity: 0.5;
+    color:rgb(252, 252, 252);
+}
+.button-entry {
+    border-radius: 22px;
+    background-color:rgb(1, 0, 2, 0.4);
+    margin-left: 20px;
+    margin-top:20px;
+    font-size: 16px;
+    color:rgb(252, 252, 252);
+    padding: 5px 15px;
+
+}
+.subs4trvl {
+    font-size: 26px;
+    font:medium;
+    color:rgb(64, 64, 64);
+}
+.dont-miss {
+    font-size: 15px;
+    font:lighter;
+    margin:20px 0;
+    color:rgb(64, 64, 64);
+    opacity: 0.5;
+}
+#email {
+    margin-left:20px;
+    border-radius: 4px;
+    color:rgb(252, 252, 252);
+    border-color: rgb(239, 239, 239);
+}
+.subsc-button {
+    border-radius:22px;
+    background-color: rgb(98,148,162);
+    display: block;
+    margin-left:20px;
+    margin-top:20px;
+    padding: 5px 30px;
+    color: rgb(240, 240, 240);
+    font-size: 17px;
+    font:medium;
+    border-color: rgb(239, 239, 239);
+}
+.subscribe1 {
+    margin-top:50px;
+    margin-left:30px;
+}
+.bullet2 {
+    display: flex;
+    list-style-type:circle;
+    margin-bottom: 30px;
+    color:rgb(64, 64, 64);
+    font-size: 22px;
+}
+.c {
+    margin-left:20px;
+    font-size: 18px;
+    font:lighter;
+    opacity: 0.2;
+    color:rgb(64, 64, 64);
+}
+.travelers-blog {
+    margin:12px 0;
+    font-size: 16px;
+    font:medium;
+    color:rgb(64, 64, 64);
+}
+.main-focus {
+    font-size: 15px;
+    font:lighter;
+    opacity: 0.5;
+    color:rgb(64, 64, 64);
+}
+.foot-list2, .foot-list3, .foot-list4 {
+    display: block;
+    margin:30px;
+    font-size: 15px;
+}
+.foot-list3 li , .foot-list2 li, .foot-list4 li{
+    margin: 10px 0;
+}
+.part2 {
+    display: flex;
+    margin-top:30px;
+}
+.vl {
+    border-left: 2px solid rgb(131, 134, 131);
+     height: 120px;
+     opacity: 0.3;
+     margin-top:30px;
+}
+
+
+
+
+.background-curonian {
+    background-image: url(..//background1.png);
+    /* width:1312px;
+    height:269px; */
+    margin:0 auto;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 20px;
+}
+.featured-style {
+    text-align: center;
+    font-size: 20px;
+    font:medium;
+    opacity: 0.7;
+    color:rgb(240, 240, 240);
+}
+.exploring-style {
+    font-size: 46px;
+    font-weight: 50% bold;
+    color:rgb(240, 240, 240);
+    margin:15px 0;
+    text-align: center;
+}
+.published-style {
+    font-size: 10px;
+    color:rgb(240, 240, 240);
+    text-align: center;
+}
+.on-the-back {
+    padding-top:100px;
+}
+.info1 {
+    margin:20px;
+    padding:20px;
+}
+.km98 {
+    font-size: 16px;
+    color:rgb(64, 64, 64);
+}
+.Geography {
+    margin:20px;
+    font-size: 30px;
+    font-size: 32px;
+    font-weight: 50% bold;
+    color:rgb(64, 64, 64);
+}
+.stretches {
+    font-size: 16px;
+    color:rgb(64, 64, 64);
+}
+.grass {
+    width:1090px;
+    height:216px;
+    width:100%;
+}
+.history h2  {
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-size: 32px;
+    font-weight: 50% bold;
+    color: rgb(64, 64, 64);
+}
+.history {
+    padding-bottom: 20px;
+    border-bottom: 2px dashed rgb(40, 40, 150);
+    margin-left:10px;
+}
+.personal-account {
+    display: flex;
+    margin-top:30px;
+}
+.man-img {
+    margin:30px;
+}
+.author {
+    width:50%;
+}
+.author-style {
+    color:rgb(64, 64, 64);
+    font-size: 15px;
+    font:medium;
+    opacity: 0.3;
+}
+.author h2 {
+    font-size: 20px;
+    font-weight: 50% bold;
+    color:rgb(64, 64, 64);
+}
+.old-style {
+    margin:20px 0;
+    font-size: 14px;
+    color:rgb(64, 64, 64);
+}
+.follow-me {
+    display: block;
+    margin:20px;
+}
+.follow-me li {
+    margin: 10px 0;
+    font-size: 16px;
+}
+.discover {
+    display: flex;
+}
+.like {
+    font-size: 26px;
+    margin-bottom: 20px;
+    font:medium;
+}
+.trip-style {
+    font-size: 13px;
+    font:medium;
+    opacity: 0.2;
+    padding-top: 20px;
+}
+.andaman-style {
+    font-size: 20px;
+    font-weight: 50% bold;
+    margin:10px 0;
+}
+.things-style {
+    font-size: 15px;
+    font:lighter;
+}
+.trip-reviews {
+    height:30%;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.sea-img {
+    width:70%;
+}
+.might-like {
+    width:30%;
+    margin:20px;
+    
+}
+.guides {
+    height:30%;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.assort {
+    display: flex;
+    width:100%;
+}
+.gujarat {
+    background-image: url(..//gujarat.png);
+    width:405px;
+    height:266px;
+}
+.new-article {
+    margin-top:30px;
+    margin-left:280px;
+    border-radius: 22px;
+    color: rgb(111,111,111);
+    background-color: rgb(252, 252, 252);
+    border-color: rgb(252   252 252);
+    font-size: 12px;
+    font:bold;
+}
+.tag-style {
+    font-size: 15px;
+    font:lighter;
+    padding:20px;
+    padding-top:50px;
+}
+.yesterday {
+    text-align:center;
+    padding-bottom: 20px;
+}
+.gujarat-both, .mostar-both, .japanese-both{
+    display: block;
+    width:33%;
+    flex-wrap: wrap;
+}
+.mostar {
+    background-image: url(..//mostar.png);
+    width:405px;
+    height:266px;
+}
+.japanese {
+    background-image: url(..//japanese.png);
+    width:405px;
+    height:266px;
+}
+
+@media (max-width:480px) {
+    .header1 li {
+        margin:5px 10px;
+    }
+    .background1 {
+        display: block;
+        flex-wrap: wrap;
+    }
+    .second{
+        display: none;
+    }
+    .bullet {
+        font-size: 18px;
+        list-style-type: none;
+    }
+    .first-section {
+        flex-wrap: wrap;
+    }
+    .info {
+        display: none;
+    }
+    .inline1 {
+        display: none;
+    }
+    .section3 {
+        flex-wrap: wrap;
+    }
+    .auto1, .skyscrapper1, .sky1 {
+        display: block;
+    }
+    .sponsored1{
+        display: block;
+    }
+    .first-block {
+        width:100%;
+    }
+    .sky1 {
+        display: none;
+    }
+    .second-block {
+        display: block;
+        width:100%;
+
+    }
+    .subscribe1 {
+        display: none;
+    }
+    .foot1 {
+        display: none;
+    }
+    .more-style {
+        display: flex;
+        justify-content: center;
+        padding-bottom: 20px;
+    }
+    .man-img {
+        width:100px;
+        height:100px;
+    }
+    .author{
+        display: none;
+    }
+    .personal-account {
+        justify-content: center;
+    }
+    .discover {
+        display: block;
+    }
+    .sea-img {
+        width:100%;
+    }
+    .might-like {
+        width:100%;
+        flex-wrap: wrap;
+    }
+    .like {
+        padding-left:100px;
+    }
+    .things-style {
+        padding-bottom: 10px;
+    }
+    .assort {
+        display: block;
+    }
+    .tag-style, .yesterday {
+        width:100%;
+    }
+    .gujarat-both, .mostar-both{
+        display: flex;
+        width:100%;
+        justify-content: center;
+    }
+    .japanese-both {
+        display: none;
+    }
+}
